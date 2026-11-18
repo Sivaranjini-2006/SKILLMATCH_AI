@@ -1,0 +1,11 @@
+job_role,required_skills,learning_suggestions,career_interest
+Data Analyst,"Python;SQL;Excel;Power BI;Statistics;Communication","Learn Power BI; Practice SQL queries; Study basic statistics; Build a dashboard project","Data & Analytics"
+Business Analyst,"Excel;SQL;Communication;Problem Solving;Documentation","Learn requirement gathering; Practice writing business requirements; Improve SQL","Data & Analytics;Software Development"
+Python Developer,"Python;OOP;Git;Problem Solving;Debugging","Learn Django or Flask; Practice object-oriented programming; Build Python projects","Software Development"
+Web Developer,"HTML;CSS;JavaScript;React;Git","Learn responsive design; Practice React; Build and publish websites","Web Development;Software Development"
+Software Developer,"Python;Java;OOP;Data Structures;Git","Practice data structures; Learn Java fundamentals; Build software projects","Software Development"
+Database Administrator,"SQL;MySQL;Database Management;Backup and Recovery;Problem Solving","Practice MySQL; Learn database optimization; Study backup and database security","Database Management"
+Data Scientist,"Python;SQL;Statistics;Machine Learning;Data Visualization","Study statistics; Learn machine learning fundamentals; Practice data visualization","Data & Analytics"
+UI UX Designer,"Figma;Wireframing;User Research;Creativity;Communication","Learn Figma; Create wireframes; Study usability and user research","Design"
+Digital Marketing Analyst,"SEO;Google Analytics;Excel;Content Strategy;Communication","Learn SEO; Explore Google Analytics; Create a sample campaign report","Digital Marketing;Data & Analytics"
+QA Tester,"Manual Testing;Test Cases;Bug Tracking;SQL;Attention to Detail","Write test cases; Practice bug reporting; Learn automation testing basics","Testing;Software Development"
